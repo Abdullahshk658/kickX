@@ -127,7 +127,7 @@ export default function App() {
           <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-16">
             <div className="md:col-span-2">
               <h2 className="text-4xl font-serif font-bold tracking-tighter mb-8">
-                AURA<span className="text-gold">KICKS</span>
+                STEP &<span className="text-gold">SCENT</span>
               </h2>
               <p className="text-white/40 text-sm max-w-sm mb-12 font-light leading-relaxed">
                 Your premier destination for high-end sneakers and curated streetwear. 
