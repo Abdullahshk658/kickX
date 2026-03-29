@@ -24,7 +24,7 @@ export default function Navbar({ cartCount }: { cartCount: number }) {
       <nav className="fixed top-0 left-0 w-full z-50 glass py-4 px-6 md:px-12 flex items-center justify-between">
         <div className="flex items-center gap-8">
           <Link to="/" className="text-2xl font-serif font-bold tracking-tighter">
-            AURA<span className="text-gold">KICKS</span>
+            STEP &<span className="text-gold">SCENTS</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-6 text-sm uppercase tracking-widest font-medium text-white/70">
